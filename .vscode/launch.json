@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/ditarector/Desktop/FULLSTACK/git study/gitMorignDemo",
+      "program": "/Users/ditarector/Desktop/FULLSTACK/git study/gitMorignDemo/build/Debug/outDebug"
+    }
+  ]
+}
